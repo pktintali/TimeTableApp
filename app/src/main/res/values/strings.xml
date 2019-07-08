@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Time Table</string>
+    <string name="maths">MATHS</string>
+    <string name="ee">EE</string>
+    <string name="Mt1pt2">MATHS T1/PHY. T2</string>
+    <string name="PHY">PHYSICS</string>
+    <string name="GRAPHICS">GRAPHICS</string>
+    <string name="PE">PE</string>
+    <string name="LIB">LIB.</string>
+    <string name="Phyt1EEt2" translatable="false">PHY. T1/EE T2</string>
+    <string name="EELAB">EE LAB</string>
+    <string name="Phylab">PHY. LAB</string>
+    <string name="lunch">LUNCH</string>
+    <string name="grlab">GRAPHICS LAB</string>
+
+
+    <string name="mon">MONDAY</string>
+    <string name="tue">TUESDAY</string>
+    <string name="wed">WEDNESDAY</string>
+    <string name="thu">THURSDAY</string>
+    <string name="FRI">FRIDAY</string>
+    <string name="SAT">SATURDAY</string>
+    <string name="SUN">SUNDAY</string>
+
+    <string name="userguid">User Guidelines</string>
+    <string name="userguid1">Here is Basic Tutorial of App </string>
+    <string name="userguid2">First open the App and select your Section.</string>
+    <string name="user3">After Selecting A Section You can see That Which Section was Selected</string>
+    <string name="user4">Now You can Select Day and you will Be able To View Your That Day Lectures List</string>
+    <string name="user5">Here is The Most Powerful Auto Select Feather.By Clicking on the Auto Select Button You Will Be Automatically Transferred To Current Day Lectures List.Many Times We Do not Remember the Current Day.So for Making this App faster this feather is Added To This App</string>
+    <string name="user6">Here after Selecting a Day or By Auto Selecting Day You You will Come.Here You will be able to View Your all Lectures List of the Selected Day. </string>
+    <string name="user7">Here is another PowerFull Feature That is Auto HighLighted Ongoing Lectures.Current Time Lecture is Highlighted  in sky Blue Color</string>
+    <string name="user8">By Tapping on Setting Icon You Can Access about App and Developer and Many other options </string>
+    <string name="bug">If You found any Bug or error in the App or You Have any information/Update about subject/Time contact us. We are Always Ready To help You.</string>
+    <string name="policy">For any changes in Timing and Lectures Developers are Not Responsible.Further Changes will be available in next update. </string>
+   <string name="compose_shortcut_short_label1">Sec L</string>
+    <string name="compose_shortcut_long_label1">Sec L Time Table</string>
+    <string name="compose_disabled_message1">Disabled</string>
+    <string name="pubid">ca-app-pub-6659921099487999~8462548806</string>
+    <string name="bannersec">ca-app-pub-6659921099487999/5802217136</string>
+    <string name="intersublist">ca-app-pub-6659921099487999/8530831566</string>
+    <string name="intersection">ca-app-pub-6659921099487999/8336046984</string>
+</resources>

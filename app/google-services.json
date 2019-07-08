@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "677748902140",
+    "firebase_url": "https://timetable-5c0a5.firebaseio.com",
+    "project_id": "timetable-5c0a5",
+    "storage_bucket": "timetable-5c0a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677748902140:android:11f7468398d7cbbc",
+        "android_client_info": {
+          "package_name": "com.pktintali.com.timetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677748902140-67nqna5l0blc1eplemlsndo21bh07m3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pktintali.com.timetable",
+            "certificate_hash": "0b1740a32188cbc8dfca8fac1bae6256e2685ede"
+          }
+        },
+        {
+          "client_id": "677748902140-o0uccdqj7n25bqi7is4h41s0l8svjmvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ7-wyelvoNmMYTs319cqfb5l7eXbZ_2A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677748902140-o0uccdqj7n25bqi7is4h41s0l8svjmvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-5861053171904035~7965968169"
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#920202</color>
+    <color name="colorAccent">#FF06DE</color>
+    <color name="yellow">#FFffff</color>
+    <color name="colorPrimary">#1202FF</color>
+    <color name="dark">#000000</color>
+    <color name="ripcolor">#ACACAC</color>
+    <color name="afclick">#82FAD6</color>
+</resources>
